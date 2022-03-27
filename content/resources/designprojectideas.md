@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db4fc3e2-dbdd-1387-1ffe-1a0562fc31e7
 resourcetype: Document
 title: Designprojectideas.pdf
 uid: 8f7fbcaf-3864-4181-7f68-6d6299d2681d
