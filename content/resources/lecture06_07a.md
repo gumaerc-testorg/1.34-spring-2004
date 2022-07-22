@@ -5,6 +5,7 @@ file: /courses/1-34-waste-containment-and-remediation-technology-spring-2004/559
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture06_07a.pdf
 uid: 55915905-07da-bbc0-6277-0d5dbb3f8df5
 ---
 Slide presentation of Lectures 6 and 7.
-

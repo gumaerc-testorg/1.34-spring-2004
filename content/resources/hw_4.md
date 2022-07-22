@@ -5,6 +5,7 @@ file: /courses/1-34-waste-containment-and-remediation-technology-spring-2004/b25
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw_4.pdf
 uid: b2565ffa-37a1-d29d-f2e4-2dee2f244e55
 ---
 Homework problems.
-

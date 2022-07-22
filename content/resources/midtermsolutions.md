@@ -5,6 +5,7 @@ file: /courses/1-34-waste-containment-and-remediation-technology-spring-2004/738
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Midtermsolutions.pdf
 uid: 73876ef1-1fa0-8cec-05d2-d51fbfc0d39d
 ---
 Solution sheet for mid-term exam.
-
