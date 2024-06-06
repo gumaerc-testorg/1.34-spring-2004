@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework problems.
 file: /courses/1-34-waste-containment-and-remediation-technology-spring-2004/87b7f334a1fcb00f06b77b72ae858dcc_hw_3.pdf
+file_size: 50478
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution sheet for final exam.
 file: /courses/1-34-waste-containment-and-remediation-technology-spring-2004/1a91b7f8454986c32764e65863440871_Final2004Solutions.pdf
+file_size: 45777
 file_type: application/pdf
 learning_resource_types:
 - Exams
