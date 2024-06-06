@@ -2,6 +2,7 @@
 content_type: resource
 description: Slide presentation of Lecture 8.
 file: /courses/1-34-waste-containment-and-remediation-technology-spring-2004/12c81b7d49fd2851b930618f0022bc18_lecture08.pdf
+file_size: 1050686
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
