@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-34-waste-containment-and-remediation-technology-spring-2004/84de133052be93fa2dc99bf44f834f02_Homework_4_Solutions.pdf
+file_size: 256693
 file_type: application/pdf
 learning_resource_types:
 - Assignments
