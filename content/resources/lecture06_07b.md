@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-34-waste-containment-and-remediation-technology-spring-2004/315e137f9d8b684f09797f9b49a35b20_lecture06_07b.pdf
+file: /ol-ocw-studio-app/courses/1-34-waste-containment-and-remediation-technology-spring-2004/315e137f9d8b684f09797f9b49a35b20_lecture06_07b.pdf
 file_size: 2504478
 file_type: application/pdf
 learning_resource_types:
