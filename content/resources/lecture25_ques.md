@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Questions to ponder before class.
-file: /ol-ocw-studio-app/courses/1-34-waste-containment-and-remediation-technology-spring-2004/8766b56ac177f9e0a686dde0d7bb03e7_lecture25_ques.pdf
+file: /courses/1-34-waste-containment-and-remediation-technology-spring-2004/8766b56ac177f9e0a686dde0d7bb03e7_lecture25_ques.pdf
 file_size: 19481
 file_type: application/pdf
 learning_resource_types:
