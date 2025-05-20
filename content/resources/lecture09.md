@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slide presentation of Lecture 9.
-file: /ol-ocw-studio-app/courses/1-34-waste-containment-and-remediation-technology-spring-2004/f0b256e8f3433a3a524e893b17d261cf_lecture09.pdf
+file: /courses/1-34-waste-containment-and-remediation-technology-spring-2004/f0b256e8f3433a3a524e893b17d261cf_lecture09.pdf
 file_size: 3691035
 file_type: application/pdf
 learning_resource_types:

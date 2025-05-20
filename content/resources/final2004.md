@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam questions.
-file: /ol-ocw-studio-app/courses/1-34-waste-containment-and-remediation-technology-spring-2004/79b37088494f950d953245f93d8e937e_Final2004.pdf
+file: /courses/1-34-waste-containment-and-remediation-technology-spring-2004/79b37088494f950d953245f93d8e937e_Final2004.pdf
 file_size: 29380
 file_type: application/pdf
 learning_resource_types:
