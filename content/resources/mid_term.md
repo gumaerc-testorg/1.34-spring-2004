@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mid-Term exam questions.
-file: /ol-ocw-studio-app/courses/1-34-waste-containment-and-remediation-technology-spring-2004/b8d75bc55a212772ae05311e07637fdf_mid_term.pdf
+file: /courses/1-34-waste-containment-and-remediation-technology-spring-2004/b8d75bc55a212772ae05311e07637fdf_mid_term.pdf
 file_size: 27889
 file_type: application/pdf
 learning_resource_types:
