@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution sheet for mid-term exam.
-file: /courses/1-34-waste-containment-and-remediation-technology-spring-2004/73876ef11fa08cec05d2d51fbfc0d39d_Midtermsolutions.pdf
+file: /ol-ocw-studio-app/courses/1-34-waste-containment-and-remediation-technology-spring-2004/73876ef11fa08cec05d2d51fbfc0d39d_Midtermsolutions.pdf
 file_size: 724177
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework problems.
-file: /courses/1-34-waste-containment-and-remediation-technology-spring-2004/137b30e9a55c9f21fe30d2603fb69c7d_hw_2.pdf
+file: /ol-ocw-studio-app/courses/1-34-waste-containment-and-remediation-technology-spring-2004/137b30e9a55c9f21fe30d2603fb69c7d_hw_2.pdf
 file_size: 19372
 file_type: application/pdf
 learning_resource_types:
