@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: List of suggested topics for design project.
-file: /courses/1-34-waste-containment-and-remediation-technology-spring-2004/8f7fbcaf386441817f686d6299d2681d_Designprojectideas.pdf
+file: /ol-ocw-studio-app/courses/1-34-waste-containment-and-remediation-technology-spring-2004/8f7fbcaf386441817f686d6299d2681d_Designprojectideas.pdf
 file_size: 7178
 file_type: application/pdf
 learning_resource_types:
